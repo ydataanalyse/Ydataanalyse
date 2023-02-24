@@ -2,7 +2,7 @@
 
 ### 📚 Projects & Guides 📚
 
-Je suis Data analyst. Dans mon portfolio, tu peux retrouver mes projets.
+Je suis Data analyst spécialisée dans l'analyse de données marketing et commerciales. Dans mon portfolio, tu peux retrouver mes projets.
 
 
 ### 🛠️ Mes outils
