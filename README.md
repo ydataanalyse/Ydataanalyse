@@ -7,11 +7,9 @@ Je suis Data analyst spécialisée dans l'analyse de données marketing et comme
 
 ### 🛠️ Mes outils
 
-Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel
-
-Python: Pandas
-
-Visualisation: Tableau, Power Bi et Qlik
+- Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel
+- Python: Pandas
+- Visualisation: Tableau, Power Bi et Qlik
 
 
 
