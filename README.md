@@ -1,17 +1,13 @@
 
+Data analyst spécialisée dans le domaine du marketing et du commercial. Mon travail consiste à répondre à des questions business en analysant des données, ce qui me permet ensuite de développer des stratégies efficaces pour aider mes clients à atteindre leurs objectifs commerciaux. 
 
-### 📚 Projets 📚
+## Mes compétences incluent :
+✔ l'analyse de données et data visualisation 
+✔ le développement de stratégies
 
-Je suis Data analyst spécialisée dans l'analyse de données marketing et commerciales. Dans mon portfolio, tu peux retrouver mes projets.
+## 🛠️ Mes outils 
+Databases: SQL, Excel
+Python: Pandas
+Visualisation: Tableau, Power Bi et Qlik
 
-
-### 🛠️ Mes outils
-
-- Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel
-- Python: Pandas
-- Visualisation: Tableau, Power Bi et Qlik
-
-
-
-
-
+Je suis convaincue que les opportunités sont là pour ceux qui savent les saisir et je suis prête à vous accompagner dans cette démarche. N'hésitez pas à me contacter pour discuter de vos projets et de la manière dont je peux vous aider à atteindre vos objectifs.
