@@ -9,5 +9,3 @@ Data analyst spécialisée dans le domaine du marketing et du commercial. Mon tr
 - Analyse de données : Python, Excel
 - Visualisation : Tableau, Power BI, QlikSense
 - Gestion de bases de données : SQL
-- Stratégies digitales et marketing
-- Analyse de la performance marketing & commerciale
