@@ -1,11 +1,9 @@
+## Description
 
-Data analyst spécialisée dans le domaine du marketing et du commercial. Mon travail consiste à répondre à des questions business en analysant des données. 
+Data analyst passionnée par l'intersection du digital et des données, mon travail consiste à transformer des données brutes en informations exploitables afin d'optimiser les performances et la prise de décision.
 
-## Mes compétences incluent :
-✔ l'analyse de données et data visualisation 
-✔ le développement de stratégies
+• Techniques d'analyse de données 📊 : Statistiques descriptives (moyenne, médiane, écart-type, corrélations..) - Clustering (K-Means) - Visualisation des données 
 
-## 🛠️ Mes outils 
-- Analyse de données : Python, Excel
-- Visualisation : Tableau, Power BI, QlikSense
-- Gestion de bases de données : SQL
+• Outils de Business Intelligence et Langages de Programmation 💻 : Tableau - Power BI - Qlik - Looker - SQL - Excel - Pack Office - Python
+
+• Compétences Marketing Analytics 📈: Analyse de marché - Analyse des campagnes marketing - Techniques de segmentation - Techniques de sondage - Evaluation du ROI (Return on Investment) - Analyse de l'entonnoir de conversion
