@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Ydataanalyse 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="center">
 🎯 <em>Data Analyst passionnée par l’intersection du digital et des données</em><br>
