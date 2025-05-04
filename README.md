@@ -32,11 +32,11 @@
 
 | Projet | Description | Techs |
 |--------|-------------|-------|
-| 🛍️ [SalesDataStory](https://github.com/Ydataanalyse/SalesDataStory) | Analyse des données de vente pour mieux comprendre les performances produits et saisonnalités | `SQL`, `Excel`, `Tableau` |
-| 👥 [TS-Etude-de-marche-Segmentation-client](https://github.com/Ydataanalyse/TS-Etude-de-marche-Segmentation-client) | Segmentation de marché et étude du comportement client | `Python`, `Tableau`, `Jupyter` |
-| 📢 [AdSmartABdata](https://github.com/Ydataanalyse/AdSmartABdata-Analyse-de-la-performance-pour-une-campagne-publicitaire) | Analyse d’AB Test pour une campagne marketing | `Python`, `Jupyter`, `Tableau` |
-| 🍕 [Pizza-Place-Sales](https://github.com/Ydataanalyse/Pizza-Place-Sales-Analyse-des-ventes) | Analyse des ventes d’une pizzeria pour identifier les best-sellers | `Python`, `Tableau` |
-> 📝 **Note**: *"Ce sont juste des exemples de projets réalisés, ça ne reflète pas toutes mes compètences et expériences*
+| 🛍️ [Analyse de performance de ventes](https://public.tableau.com/app/profile/oy4372/viz/CoffeeShopperformance/Histoire1) | Analyse de données de ventes au détail d'une chaîne de café fictive | `SQL`, `Excel`, `Tableau` |
+| 👥 [Segmentation client](https://public.tableau.com/app/profile/oy4372/viz/TSTableaudebord/TSTableaudebord) | Segmentation client pour déterminer les segments de clientèle les plus rentables | `Python`, `Excel`, `Tableau`, `Jupyter` |
+| 📢 [AB/Test](https://public.tableau.com/app/profile/oy4372/viz/RsulatABTest/RsultatABTest) | Analyse d’AB Test pour une campagne marketing | `Python`, `Jupyter`, `Tableau`, `Excel` |
+| 🍕 [Analyse de performance de ventes](https://public.tableau.com/app/profile/oy4372/viz/SalesData_16947195551980/Histoire1) | Analyse des ventes pour optimiser les opérations et améliorer la rentabilité | `Python`, `Excel`, `Tableau` |
+> 📝 **Note**: *"Ce sont juste des exemples de projets réalisés, ça ne reflète pas toutes mes compètences et expériences en analyse de données*
 ---
 
 ### 📈 GitHub Stats
