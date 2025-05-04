@@ -51,7 +51,7 @@
 
 ### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)])([https://www.linkedin.com/in/yahafadounaomar/])  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahafadounaomar/)
 
 ---
 
